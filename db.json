@@ -1,12 +1,10 @@
 {
   "member": [
     {
-      "name": "nakanishi",
-      "age": 30
+      "name": "nakanishi"
     },
     {
-      "name": "tanaka",
-      "age": 40
+      "name": "tanaka"
     }
   ]
 }
