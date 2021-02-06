@@ -13,20 +13,4 @@
       "age": 50
     }
   ]
-  
-  "news": [
-    {
-      "name": "nakanishi",
-      "age": 30
-    },
-    {
-      "name": "tanaka",
-      "age": 40
-    },
-    {
-      "name": "suzuki",
-      "age": 50
-    }
-  ]
-  
 }
